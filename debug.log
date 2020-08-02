@@ -1,0 +1,15 @@
+[0728/103609.094:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0728/103609.129:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0728/103609.801:ERROR:exception_snapshot_win.cc(98)] thread ID 14288 not found in process
+[0728/103609.801:ERROR:exception_snapshot_win.cc(98)] thread ID 6452 not found in process
+[0728/103609.973:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0728/103609.973:ERROR:exception_snapshot_win.cc(98)] thread ID 4092 not found in process
+[0728/103610.910:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0728/103610.910:ERROR:exception_snapshot_win.cc(98)] thread ID 7460 not found in process
+[0801/140433.499:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0801/140433.499:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0801/140434.718:ERROR:exception_snapshot_win.cc(98)] thread ID 2956 not found in process
+[0801/140434.718:ERROR:exception_snapshot_win.cc(98)] thread ID 8380 not found in process
+[0802/124128.752:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0802/124130.877:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[0802/124130.971:ERROR:process_info.cc(551)] ReadProcessData failed

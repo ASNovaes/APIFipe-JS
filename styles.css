@@ -1,0 +1,52 @@
+body {
+    background: rgb(246, 247, 251);
+}
+
+nav {
+    background: rgb(66, 87, 178);
+}
+
+.content {
+    margin: 20px;
+}
+
+.input-group-text {
+    background: #ccc;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 1px;
+}
+
+.field-form {
+    border: 1px solid #ccc;
+}
+
+.section-form {
+    align-items: center;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px 0 10px 0;
+}
+
+#sectionCanvas {
+    align-items: center;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    width: 100%;
+}
+
+#sectionCanvas > p {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#btnReset {
+    background: #ccc;
+    border: 1px solid #ddd;
+    font-weight: 500;
+}
